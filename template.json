@@ -13,8 +13,9 @@
             "type": "securestring"
         },		
         "virtualMachines_gamevm_sku": {
-            "defaultValue": "Standard_NG8ads_V620_v1",
+            "defaultValue": "Standard_NV4as_v4",
 			"allowedValues": [
+				"Standard_NV4as_v4",
 				"Standard_NG8ads_V620_v1",
 				"Standard_NG16ads_V620_v1",
 				"Standard_NG32ads_V620_v1"
